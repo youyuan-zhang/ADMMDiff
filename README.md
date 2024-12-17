@@ -13,4 +13,4 @@ conda env create -f environment.yml
 conda activate admm
 ```
 ## Run
-Please refer to the folders ./NonLinear and ./Linear.
+Please refer to the folders ./NonLinear, ./Linear and ./Motion.
