@@ -1,0 +1,1 @@
+python -m sample.generate --model_path ./save/unet_adazero_xl_x0_abs_proj10_fp16_clipwd_224/model000500000.pt --input_text ./assets/test_prompt.txt --guidance_mode trajectory

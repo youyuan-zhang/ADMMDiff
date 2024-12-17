@@ -1,0 +1,1 @@
+python -m visualize.render_mesh --input_path save/unet_adazero_xl_x0_abs_proj10_fp16_clipwd_224/samples_000500000_seed10_test_prompt/sample00_rep00.mp4
